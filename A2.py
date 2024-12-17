@@ -1,0 +1,11 @@
+name = 'John'
+age = 12
+weight = 54.98
+is_student = True
+print (age, type(age))
+age = float(age)
+print (age, type(age))
+weight = int(weight)
+print (weight, type(weight))
+name = bool(name)
+print (name, type(name))

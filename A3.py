@@ -1,0 +1,10 @@
+# age = int(input ('How old are you?'))
+# print (age, type(age))
+name = 'Jedidiah'
+print (name[0])
+print (name[-1])
+print (name[1:3])
+print (name[:])
+print (name[0:7:3])
+print (name[7:0:-1])
+print (name[::-1])
